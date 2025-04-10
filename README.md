@@ -31,7 +31,7 @@ This project allows you to **ask questions about any PDF** document using a powe
 
 ## ⚙️ How It Works
 
-### 1. **PDF Upload**
+### 1. **PDF/Excel/Text Upload**
 - User inputs the path to a PDF file.
 - The file is read using `PyPDF2.PdfReader`.
 
